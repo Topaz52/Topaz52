@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topaz52&label=Profile%20views&color=0e75b6&style=flat" alt="topaz52" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://ismailmasseran.tech/](https://ismailmasseran.tech/)
+- 👨‍💻 Do visit my website at [https://ismailmasseran.tech/](https://ismailmasseran.tech/)
 
 - 📫 How to reach me **ismailmasseran1@gmail.com**
 
