@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm ISMAIL</h1>
-<h3 align="center">A passionate student from Malaysia</h3>
+<h3 align="center"A fresh graduate with a Degree in Intelligent Systems Engineering.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=topaz52&label=Profile%20views&color=0e75b6&style=flat" alt="topaz52" /> </p>
 
-- 👨‍💻 Do visit my website at [https://ismailmasseran.tech/](https://ismailmasseran.tech/)
+- 👨‍💻 Do visit my website at [https://ismailmasseran.com/](https://ismailmasseran.com/)
 
 - 📫 How to reach me **ismailmasseran1@gmail.com**
 
