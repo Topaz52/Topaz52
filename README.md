@@ -5,7 +5,7 @@
 
 - 👨‍💻 Do visit my website at [ISMAIL MASSERAN](https://ismailmasseran.com/)
 
-- 📫 How to reach me **ismailmasseran1@gmail.com**
+- 📫 How to reach me: **ismailmasseran1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
